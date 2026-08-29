@@ -1,6 +1,6 @@
 {
   "version": 1,
   "maquinas": [
-    { "codigo": "6f9c8f3e79fc81fc24c1e9921cf9549d1ddc6e1bd8bab4333e9582709410df38", "cliente": "Fernando (dev)", "activa": false }
+    { "codigo": "6f9c8f3e79fc81fc24c1e9921cf9549d1ddc6e1bd8bab4333e9582709410df38", "cliente": "Fernando (dev)", "activa": true }
   ]
 }
