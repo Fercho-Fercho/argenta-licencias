@@ -2,6 +2,7 @@
   "version": 1,
   "maquinas": [
     { "codigo": "6f9c8f3e79fc81fc24c1e9921cf9549d1ddc6e1bd8bab4333e9582709410df38", "cliente": "Fernando (dev)", "activa": true },
-    { "codigo": "fb7723b099418ef993f3e314eaa8991453e62f3edfc6b54ec71aad5c9daa40cb", "cliente": "Irene Beatriz Oficina", "activa": true }
+    { "codigo": "fb7723b099418ef993f3e314eaa8991453e62f3edfc6b54ec71aad5c9daa40cb", "cliente": "Irene Beatriz Oficina", "activa": true },
+    { "codigo": "23fe062ad0757b07b294cb388d8342def1022ee77c039977868972248669a67e", "cliente": "Computadora nueva", "activa": true }
   ]
 }
